@@ -38,7 +38,7 @@ The model was trained on the widely-used **GTZAN Dataset** and achieves strong g
 ## 🗂️ Project Structure
 
 ```
-B241_B248_ML_MiniProject/
+GenreMusicClassification/
 │
 ├── Final_Final_Train_Music_Genre_Classifier.ipynb   # Training pipeline
 ├── final_final_Test_Music_Genre.ipynb               # Inference on new audio
